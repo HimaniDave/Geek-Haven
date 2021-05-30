@@ -3,8 +3,11 @@ Society's Website
 
 Webkriti’21
 
-Problem Statement
+Problem Statement 
+
 Assume yourself to be a part of GeekHaven’s Web Development Wing. 
+
+
 Now, you are assigned with a task to develop a web-application for all the Cultural Societies, which includes 
 GeneticX (the Dance Society)
 Virtuosi (the Music Society)
