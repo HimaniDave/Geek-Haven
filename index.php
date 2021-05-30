@@ -45,9 +45,6 @@ include 'dbcon.php';
                                 <li class="nav-item">
                                     <a class="nav-link p-3" href="login.php">Login</a>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="nav-link p-3" id="theme-toggle"><i class="far fa-lightbulb"></i></a>
-                                </li>
                             </ul>
                         </div>
                     </div>
